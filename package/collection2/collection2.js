@@ -4,9 +4,9 @@ import { EJSON } from 'meteor/ejson';
 import { _ } from 'meteor/underscore';
 import { checkNpmVersions } from 'meteor/tmeasday:check-npm-versions';
 
-checkNpmVersions({ 'simpl-schema': '0.x.x' }, 'aldeed:meteor-collection2-core');
+checkNpmVersions({ '@clayne/simple-schema': '0.x.x' }, 'aldeed:meteor-collection2-core');
 
-const SimpleSchema = require('simpl-schema').default;
+const SimpleSchema = require('@clayne/simple-schema').default;
 
 // Exported only for listening to events
 const Collection2 = new EventEmitter();

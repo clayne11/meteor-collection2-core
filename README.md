@@ -383,7 +383,7 @@ Even if you skip all validation and cleaning, Collection2 will still do some obj
 ## Additional SimpleSchema Options
 
 In addition to all the other schema validation options documented in the
-[simpl-schema](https://github.com/aldeed/node-simple-schema) package, the
+[@clayne/simple-schema](https://github.com/clayne11/node-simple-schema) package, the
 collection2 package adds additional options explained in this section.
 
 ### index and unique

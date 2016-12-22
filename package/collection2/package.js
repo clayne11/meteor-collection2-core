@@ -1,11 +1,11 @@
 /* global Package */
 
 Package.describe({
-  name: "aldeed:collection2-core",
+  name: "clayne:collection2-core",
   summary: "Core package for aldeed:collection2",
   version: "2.0.0",
   documentation: "../../README.md",
-  git: "https://github.com/aldeed/meteor-collection2-core.git"
+  git: "https://github.com/clayne11/meteor-collection2-core.git"
 });
 
 Package.onUse(function(api) {

@@ -3,3 +3,4 @@
 .npm*
 .meteor*
 node_modules
+npm-debug.log
