@@ -4,7 +4,7 @@ base64@1.0.10
 binary-heap@1.0.10
 callback-hook@1.0.10
 check@1.0.6
-clayne:collection2-core@2.0.0
+clayne:collection2-core@2.0.1
 ddp@1.1.0
 diff-sequence@1.0.7
 ecmascript@0.6.1
