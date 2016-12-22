@@ -1,15 +1,15 @@
-# aldeed:collection2-core
+# clayne:collection2-core
 
 A Meteor package that allows you to attach a schema to a Mongo.Collection. Automatically validates against that schema when inserting and updating from client or server code.
 
-This package requires and automatically installs the [aldeed:simple-schema](https://github.com/aldeed/meteor-simple-schema) package, which defines the schema syntax and provides the validation logic.
+This package requires and that you install the [@clayne/simple-schema](https://github.com/clayne11/meteor-simple-schema) npm package, which defines the schema syntax and provides the validation logic.
 
 ## Installation
 
 In your Meteor app directory, enter:
 
 ```
-$ meteor add aldeed:collection2-core
+$ meteor add clayne:collection2-core && npm install --save @clayne/simple-schema
 ```
 
 ## Why Use Collection2?

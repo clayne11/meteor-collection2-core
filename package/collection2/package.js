@@ -2,8 +2,8 @@
 
 Package.describe({
   name: "clayne:collection2-core",
-  summary: "Core package for aldeed:collection2",
-  version: "2.0.0",
+  summary: "Allows defining validation schemas for Meteor collections",
+  version: "2.0.1",
   documentation: "../../README.md",
   git: "https://github.com/clayne11/meteor-collection2-core.git"
 });

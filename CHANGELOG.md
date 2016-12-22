@@ -2,7 +2,7 @@
 
 ### 2.0.0
 
-Requires Meteor 1.3+ and requires you to install and use the [Node SimpleSchema package](https://github.com/aldeed/node-simple-schema).
+Requires Meteor 1.3+ and requires you to install and use the [@clayne11/simple-schema](https://github.com/clayne11/node-simple-schema).
 
 ### 1.2.0
 
